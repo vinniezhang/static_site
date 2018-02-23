@@ -94,6 +94,15 @@ body{
 	text-shadow: 3px 2px #4eb292;
 }
 
+#resume_intro {
+	padding-top: 100px;
+	padding-left: 25px;
+	text-align: left;
+	font-family: georgia;
+	font-weight: bold;
+	font-size: 15px;
+}
+
 h1{
 	text-shadow: 1px 1px #9a9ca0;
 }
