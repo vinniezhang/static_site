@@ -19,6 +19,15 @@ body{
 	text-shadow: 1px 1px #9a9ca0;
 }
 
+#intro{
+	padding-top: 500px;
+	padding-left: 25px;
+	text-align: left;
+	font-family: georgia;
+	font-weight: bold;
+	font-size: 15px;
+}
+
 #peaches {
 	text-align: center;
 	font-size: 20px;
