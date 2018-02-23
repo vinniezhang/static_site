@@ -69,6 +69,30 @@ body{
 	padding-bottom: 50px;
 	text-decoration: none;
 }
+#resume:hover {
+	font-size: 30px;
+	text-shadow: 3px 2px #4eb292;
+}
+
+#poetry:hover {
+	font-size: 30px;
+	text-shadow: 3px 2px #4eb292;
+}
+
+#photo:hover {
+	font-size: 30px;
+	text-shadow: 3px 2px #4eb292;
+}
+
+#about:hover {
+	font-size: 30px;
+	text-shadow: 3px 2px #4eb292;
+}
+
+#contact:hover {
+	font-size: 30px;
+	text-shadow: 3px 2px #4eb292;
+}
 
 h1{
 	text-shadow: 1px 1px #9a9ca0;
