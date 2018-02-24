@@ -45,7 +45,7 @@ body{
 #navigation {
 	position: absolute;
 	display: inline-block;
-	width:100%;
+	width:98%;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	font-size: 25px;
@@ -100,7 +100,7 @@ body{
 }
 
 #resume_intro {
-	padding-top: 100px;
+	padding-top: 485px;
 	padding-left: 25px;
 	text-align: left;
 	font-family: georgia;
