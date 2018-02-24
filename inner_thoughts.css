@@ -69,6 +69,11 @@ body{
 	padding-bottom: 50px;
 	text-decoration: none;
 }
+
+#resume_link:hover {
+	font-size: 26px;
+}
+
 #resume:hover {
 	font-size: 30px;
 	text-shadow: 3px 2px #4eb292;
