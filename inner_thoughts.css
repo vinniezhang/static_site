@@ -52,6 +52,7 @@ body{
 }
 
 #navigation {
+	font-family: courier;
 	position: absolute;
 	display: inline-block;
 	width:98%;
@@ -63,6 +64,7 @@ body{
 }
 
 #ab_navigation {
+	font-family: courier;
 	display: inline-block;
 	width:100%;
 	padding-top: 10px;
@@ -109,12 +111,11 @@ body{
 }
 
 #resume_intro {
-	padding-top: 485px;
-	padding-left: 25px;
-	text-align: left;
-	font-family: georgia;
+	padding-top: 200px;
+	text-align: center;
+	font-family: courier;
 	font-weight: bold;
-	font-size: 15px;
+	font-size: 30px;
 }
 
 h1{
@@ -144,6 +145,52 @@ a:visited {
 	width: 500px;
 	height: 350px;
 	animation: clipPoly 3s 3 alternate;
+}
+
+#a {
+	letter-spacing: 2px;
+	white-space: nowrap;
+	margin: 0 auto;
+	overflow: hidden;
+	animation: typing 16s steps(100, end),
+	           caret .5s step-end infinite;
+}
+
+#b {
+	letter-spacing: 2px;
+	white-space: nowrap;
+	margin: 0 auto;
+	overflow: hidden;
+	animation: typing 19s steps(100, end),
+	           caret .5s step-end infinite;
+}
+
+#c {
+	letter-spacing: 2px;
+	white-space: nowrap;
+	margin: 0 auto;
+	overflow: hidden;
+	animation: typing 18s steps(100, end),
+	           caret .5s step-end infinite;
+}
+
+#d {
+	letter-spacing: 2px;
+	white-space: nowrap;
+	margin: 0 auto;
+	overflow: hidden;
+	animation: typing 15s steps(100, end),
+	           caret .5s step-end infinite;
+}
+
+@keyframes typing { 
+	from {width: 0} 
+	to {width: 100%}
+}
+
+@keyframes blink-caret { 
+	from, to {border-color: transparent;}
+  	50% {border-color: white}
 }
 
 @keyframes clipPoly{
