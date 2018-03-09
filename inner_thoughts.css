@@ -32,6 +32,7 @@ body{
 	font-size: 20px;
 	padding-top: 100px;
 	padding-bottom: 30px;
+	padding-left: 30px;
 	text-shadow: 1px 1px #9a9ca0;
 	font-style: italic;
 }
@@ -73,18 +74,19 @@ body{
 	text-shadow: 1px 1px #9a9ca0;
 }
 
-#resume, #poetry, #photo, #about, #contact{
+#resume, #poetry, #photo, #about, #contact, #projects{
 	padding-left: 50px;
 	padding-right: 50px; 
 	padding-bottom: 50px;
 	text-decoration: none;
 }
 
-#resume_link:hover {
-	font-size: 46px;
+#resume:hover {
+	font-size: 30px;
+	text-shadow: 3px 2px #4eb292;
 }
 
-#resume:hover {
+#projects:hover {
 	font-size: 30px;
 	text-shadow: 3px 2px #4eb292;
 }
@@ -117,8 +119,16 @@ body{
 	font-size: 30px;
 }
 
+#resume_link:hover {
+	font-size: 46px;
+}
+
+#project_list{
+	text-decoration: none;
+}
+
 h1{
-	text-shadow: 1px 1px #9a9ca0;
+	text-shadow: 1px 1px #4eb292;
 }
 
 a:link {
@@ -139,7 +149,7 @@ a:visited {
 	padding-left: 25px;
 	font-family: courier;
 	font-size: 35px;
-	font-weight: bolder;
+	font-weight: bold;
 }
 
 #email{
@@ -153,10 +163,10 @@ a:visited {
 
 #propic{
 	margin-left: auto;
-	margin-right: auto;
-	text-align: center;
-	display: table-cell;
-	vertical-align: middle
+    margin-right: auto;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle
 	text-align: center;
 	padding-top: 100px;
 	width: 500px;
@@ -231,4 +241,5 @@ a:visited {
 		clip-path: polygon(100% 0%, 0% 0%, 0% 100%, 100% 100%);
 		transform: scale(1);
 	}
+
 }
