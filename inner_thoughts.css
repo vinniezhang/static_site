@@ -124,7 +124,11 @@ body{
 }
 
 #project_list{
-	text-decoration: none;
+	font-family: courier;
+	padding-top: 130px;
+	padding-left: 100px;
+	font-size: 25px;
+	list-style-type: none;
 }
 
 h1{
