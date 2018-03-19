@@ -124,11 +124,15 @@ body{
 	font-size: 46px;
 }
 
+#comic_project:hover, #audio_project:hover{
+	color:blue;
+}
+
 #all_projects{
 	font-family: courier;
 	padding-top: 130px;
-	padding-left: 100px;
-	font-size: 25px;
+	padding-left: 40px;
+	font-size: 24px;
 	list-style-type: none;
 }
 
