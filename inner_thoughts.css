@@ -1,7 +1,6 @@
 body{
-	/*background: linear-gradient(to right, #FFA371, #FFCC99);*/
-	background: white;
-	background-image: url("images/white.jpg")
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 #photos, #title, #intro{
