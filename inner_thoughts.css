@@ -98,33 +98,27 @@ a: hover{
 }
 
 #resume:hover {
-	font-size: 30px;
-	text-shadow: 3px 2px #4eb292;
+	text-shadow: 5px 3px #4eb292;
 }
 
 #projects:hover {
-	font-size: 30px;
-	text-shadow: 3px 2px #4eb292;
+	text-shadow: 5px 3px #4eb292;
 }
 
 #poetry:hover {
-	font-size: 30px;
-	text-shadow: 3px 2px #4eb292;
+	text-shadow: 5px 3px #4eb292;
 }
 
 #photo:hover {
-	font-size: 30px;
-	text-shadow: 3px 2px #4eb292;
+	text-shadow: 5px 3px #4eb292;
 }
 
 #about:hover {
-	font-size: 30px;
-	text-shadow: 3px 2px #4eb292;
+	text-shadow: 5px 3px #4eb292;
 }
 
 #contact:hover {
-	font-size: 30px;
-	text-shadow: 3px 2px #4eb292;
+	text-shadow: 5px 3px #4eb292;
 }
 
 #resume_intro {
