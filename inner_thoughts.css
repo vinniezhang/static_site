@@ -147,9 +147,6 @@ a: hover{
 
 #p-about, #p-resume, #p-projects, #p-poetry, #p-photo, #p-contact{
 	font-family: times new roman;
-	padding-left: 50px;
-	padding-right: 50px; 
-	padding-bottom: 50px;
 	text-decoration: none;
 	padding-top: 10px;
 	padding-bottom: 10px;
