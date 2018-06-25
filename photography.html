@@ -4,7 +4,7 @@
 	<title> vinnie's photos </title>
 	<link rel="stylesheet" type="text/css" href="inner_thoughts.css">
 </head>
-<body background="wall.png">
+<body onload="preloadImages()">
 
 <h1> photography by vinnie </h1>
 
@@ -44,4 +44,19 @@
 	<img src="vinniezhang.github.io/wsp.JPG" width="312.5" height="185">
 </div>
 </body>
+	
+	<script type="text/javascript">
+	
+	function preloadImages() {
+
+		var imageList = ["bobst.jpg", "cooper.jpg", "gals.jpg", "independence.jpg", "pins.jpg", "centurylake.jpg", "bridge.jpg", "duo.jpg", "snow.jpg", "italy.jpg", "shoes.jpg","vinz.jpg", "canoe.jpg", "fidi.jpg", "gingerbread.jpg","LANY.jpg", "tianzifang.jpg", "whit.jpg", "sky.jpg",  "fireworks.jpg", "hurtsgood.jpg", "nyc.jpg", "flowers.jpg", "wsp.jpg"];
+
+		for (var i = 0; i < imageList.length; i++) {
+			var imageObject = new Image();
+			imageObject.src = "vinniezhang.github.io/" + imageList[i];
+		}
+	}
+
+</script>
+	
 </html>
