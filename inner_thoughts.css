@@ -157,6 +157,30 @@ a: hover{
 	font-size: 28px;
 }
 
+#p-resume:hover {
+	text-shadow: 3px 2px #4eb292;
+}
+
+#p-projects:hover {
+	text-shadow: 3px 2px #4eb292;
+}
+
+#p-poetry:hover {
+	text-shadow: 3px 2px #4eb292;
+}
+
+#p-photo:hover {
+	text-shadow: 3px 2px #4eb292;
+}
+
+#p-about:hover {
+	text-shadow: 3px 2px #4eb292;
+}
+
+#p-contact:hover {
+	text-shadow: 3px 2px #4eb292;
+}
+
 #resume_intro {
 	padding-top: 200px;
 	text-align: center;
