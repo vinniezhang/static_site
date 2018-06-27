@@ -72,6 +72,14 @@ a: hover{
 	padding-left: 100px;
 }
 
+#appendix{
+	font-family: times new roman;
+	text-align: left;
+	font-size: 20px;
+	padding-top: 70px;
+	padding-left: 300px;
+}
+
 #skin{
 	font-family: times new roman;
 	text-align: left;
