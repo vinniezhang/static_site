@@ -264,20 +264,24 @@ a:visited {
 
 #touch{
 	text-align: center;
-	padding-top: 160px;
+	padding-top: 140px;
 	padding-left: 25px;
 	font-family: times new roman;
-	font-size: 35px;
+	font-size: 115px;
 	font-weight: bold;
 }
 
 #email{
-	font-size: 26px;
-	color: blue;
+	font-size: 68px;
 }
 
-#long{
-	font-size: 28px;
+#long, #long2{
+	font-size: 68px;
+	text-align: center;
+}
+
+#linked:hover, #email:hover{
+	color: blue;
 }
 
 #propic{
@@ -294,11 +298,12 @@ a:visited {
 }
 
 #a {
+	color: #5be5c5;
 	letter-spacing: 2px;
 	white-space: nowrap;
 	margin: 0 auto;
 	overflow: hidden;
-	animation: typing 16s steps(100, end),
+	animation: typing 6s steps(100, end),
 	           caret .5s step-end infinite;
 }
 
