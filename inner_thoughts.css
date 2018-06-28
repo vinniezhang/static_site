@@ -90,6 +90,20 @@ a: hover{
 	padding-left: 1100px;
 }
 
+#ed1{
+	font-size: 20px;
+	text-align: left;
+	padding-left: 100px;
+	padding-top: 100px;
+}
+
+#ed2{
+	font-size: 20px;
+	text-align: left;
+	padding-left: 250px;
+	padding-top: 70px;
+}
+
 #metro{
 	font-family: times new roman;
 	text-align: left;
@@ -140,6 +154,14 @@ a: hover{
 
 #tokyo1{
 	font-size: 25px;
+}
+
+#friday{
+	font-family: times new roman;
+	text-align: left;
+	font-size: 20px;
+	padding-top: 10px;
+	padding-left: 600px;
 }
 
 #photos{
