@@ -265,7 +265,7 @@ a: hover{
 	text-decoration: underline;
 }
 
-#comic_project:hover, #audio_project:hover{
+#comic_project:hover, #audio_project:hover, #net_art:hover{
 	color:blue;
 }
 
