@@ -318,13 +318,13 @@ a:visited {
 	margin-right: auto;
 	border: .8vw solid white;
 	box-shadow: 1.5vw 1.5vw 15px #5a5d63;
-	margin-top: 8vw;
+	margin-top: 10vw;
 	text-align: center;
 	display: block;
 	vertical-align: middle;
 	text-align: center;
-	width: 34%;		/*550px;*/
-	height: 28%;	/*385px;*/
+	width: 32%;		/*550px;*/
+	height: 26%;	/*385px;*/
 	animation: clipPoly 3s 3 alternate;
 }
 
