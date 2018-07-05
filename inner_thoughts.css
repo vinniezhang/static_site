@@ -1,6 +1,8 @@
 body{
-	background-repeat: no-repeat;
-	background-size: cover;
+	/*background: linear-gradient(to right, #FFA371, #FFCC99);*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #d1adad;
 }
 
 #photos, #title, #intro{
@@ -13,7 +15,7 @@ body{
 }
 
 #intro{
-	padding-top: 4.0vw;
+	padding-top: 3vw;
 	text-align: left;
 	padding-left: 4.0vw;
 	font-family: times new roman;
@@ -31,7 +33,7 @@ body{
 
 a: hover{
 	text-decoration: underline;
-	color: blue;
+	color: #fff3e5;
 	font-size: 35px;
 }
 
@@ -87,13 +89,13 @@ a: hover{
 	font-size: 1.3vw;
 	text-align: left;
 	padding-left: 5vw;
-	padding-top: 6vw;
+	padding-top: 8vw;
 }
 
 #ed2{
 	font-size: 1.3vw;
 	text-align: left;
-	padding-left: 20vw;
+	padding-left: 18vw;
 	padding-top: 5vw;
 }
 
@@ -186,7 +188,7 @@ a: hover{
 	padding-bottom: 10px;
 	font-size: 1.2vw;
 	text-align: center;
-	text-shadow: 1px 1px #9a9ca0;
+	text-shadow: 1px 1px grey;
 	overflow: hidden;
 }
 
@@ -203,27 +205,27 @@ a: hover{
 }
 
 #resume:hover {
-	text-shadow: 2px 1px #4eb292;
+	text-shadow: 2px 1px grey;
 }
 
 #projects:hover {
-	text-shadow: 2px 1px #4eb292;
+	text-shadow: 2px 1px grey;
 }
 
 #poetry:hover {
-	text-shadow: 2px 1px #4eb292;
+	text-shadow: 2px 1px grey;
 }
 
 #photo:hover {
-	text-shadow: 2px 1px #4eb292;
+	text-shadow: 2px 1px grey;
 }
 
 #about:hover {
-	text-shadow: 2px 1px #4eb292;
+	text-shadow: 2px 1px grey;
 }
 
 #contact:hover {
-	text-shadow: 2px 1px #4eb292;
+	text-shadow: 2px 1px grey;
 }
 
 #p-about, #p-resume, #p-projects, #p-poetry, #p-photo, #p-contact{
@@ -239,27 +241,27 @@ a: hover{
 }
 
 #p-resume:hover {
-	text-shadow: 2px 1px #4eb292;
+	text-shadow: 2px 1px grey;
 }
 
 #p-projects:hover {
-	text-shadow: 2px 1px #4eb292;
+	text-shadow: 2px 1px grey;
 }
 
 #p-poetry:hover {
-	text-shadow: 2px 1px #4eb292;
+	text-shadow: 2px 1px grey;
 }
 
 #p-photo:hover {
-	text-shadow: 2px 1px #4eb292;
+	text-shadow: 2px 1px grey;
 }
 
 #p-about:hover {
-	text-shadow: 2px 1px #4eb292;
+	text-shadow: 2px 1px grey;
 }
 
 #p-contact:hover {
-	text-shadow: 2px 1px #4eb292;
+	text-shadow: 2px 1px grey;
 }
 
 #resume_intro {
@@ -274,11 +276,11 @@ a: hover{
 }
 
 #comic_project:hover, #audio_project:hover, #net_art:hover{
-	color:blue;
+	color:#fff3e5;
 }
 
 h1{
-	text-shadow: 1px 1px #4eb292;
+	text-shadow: 1px 1px grey;
 }
 
 a:link {
@@ -308,24 +310,26 @@ a:visited {
 }
 
 #linked:hover, #email:hover{
-	color: blue;
+	color: #fff3e5;
 }
 
 #propic{
 	margin-left: auto;
     margin-right: auto;
+    border: .8vw solid white;
+    box-shadow: 1.5vw 1.5vw 15px #5a5d63;
+    margin-top: 8vw;
     text-align: center;
-    display: table-cell;
+    display: block;
     vertical-align: middle;
 	text-align: center;
-	padding-top: 9vw;
-	width: 30%;		/*550px;*/
-	height: 24%;	/*385px;*/
+	width: 34%;		/*550px;*/
+	height: 28%;	/*385px;*/
 	animation: clipPoly 3s 3 alternate;
 }
 
 #a {
-	color: #4bd1ba;
+	color: #fff3e5 /*#4bd1ba*/;
 	letter-spacing: 2px;
 	font-size: 9vw;
 	white-space: nowrap;
@@ -366,5 +370,60 @@ a:visited {
 		clip-path: polygon(100% 0%, 0% 0%, 0% 100%, 100% 100%);
 		transform: scale(1);
 	}
+}
+
+.changebg {
+	width: 100%;
+	height: 1000%;
+	animation-name: bgcolorchange;
+	animation-duration:100s;
+	animation-iteration-count: infinite;
+}
+
+@keyframes bgcolorchange{
+	0% {
+	    background-color: #d1adad;
+	  }
+
+	10% {
+	    background-color: #a8897e;
+	  }
+
+	20% {
+	    background-color: #c4aed2;
+	  }
+
+	30% {
+	    background-color: #adb2d1;
+	  }
+
+	40% {
+	    background-color: #adc2d1;
+	  }
+
+	50% {
+	    background-color: #add1cf;
+	  }
+
+	60% {
+	    background-color: #add1c2;
+	  }
+
+	70% {
+	    background-color: #adc3d1;
+	  }
+
+	80% {
+	    background-color: #b3add1;
+	  }
+
+	90% {
+		background-color: #d1adb2;
+	}
+
+	100% {
+		background-color: #d1adad;
+	}
+}
 
 }
