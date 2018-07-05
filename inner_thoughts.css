@@ -315,13 +315,13 @@ a:visited {
 
 #propic{
 	margin-left: auto;
-    margin-right: auto;
-    border: .8vw solid white;
-    box-shadow: 1.5vw 1.5vw 15px #5a5d63;
-    margin-top: 8vw;
-    text-align: center;
-    display: block;
-    vertical-align: middle;
+	margin-right: auto;
+	border: .8vw solid white;
+	box-shadow: 1.5vw 1.5vw 15px #5a5d63;
+	margin-top: 8vw;
+	text-align: center;
+	display: block;
+	vertical-align: middle;
 	text-align: center;
 	width: 34%;		/*550px;*/
 	height: 28%;	/*385px;*/
