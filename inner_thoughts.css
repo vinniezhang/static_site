@@ -157,12 +157,20 @@ a: hover{
 	padding-top: .5vw;
 }
 
+#miscom{
+	font-family: times new roman;
+	text-align: left;
+	font-size: 1.3vw;
+	padding-top: 5vw;
+	padding-left: 32vw;
+}
+
 #friday{
 	font-family: times new roman;
 	text-align: left;
 	font-size: 1.3vw;
 	padding-top: 5vw;
-	padding-left: 38vw;
+	padding-left: 65vw;
 }
 
 #photos{
