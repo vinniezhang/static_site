@@ -39,7 +39,7 @@ a: hover{
 	font-family: times new roman;
 	text-align: left;
 	font-size: 1.3vw;
-	padding-left: 8vw;
+	padding-left: 5vw;
 	padding-top: .5vw;
 }
 
@@ -64,7 +64,7 @@ a: hover{
 	text-align: left;
 	font-size: 1.3vw;
 	padding-top: 5vw;
-	padding-left: 8vw;
+	padding-left: 5vw;
 }
 
 #appendix{
@@ -86,7 +86,7 @@ a: hover{
 #ed1{
 	font-size: 1.3vw;
 	text-align: left;
-	padding-left: 8vw;
+	padding-left: 5vw;
 	padding-top: 6vw;
 }
 
@@ -102,7 +102,7 @@ a: hover{
 	text-align: left;
 	font-size: 1.3vw;
 	padding-top: .5vw;
-	padding-left: 8vw;
+	padding-left: 5vw;
 }
 
 #kyoto{
@@ -122,14 +122,14 @@ a: hover{
 	text-align: left;
 	font-size: 1.3vw;
 	padding-top: 2.5vw;
-	padding-left: 8vw;
+	padding-left: 5vw;
 }
 
 #japan{
 	font-size: 2.3vw;
 	font-weight: bold;
 	text-align: left;
-	padding-left: 8vw;
+	padding-left: 5vw;
 	padding-top: 5vw;
 }
 
@@ -137,7 +137,7 @@ a: hover{
 	font-size: 2.3vw;
 	font-weight: bold;
 	text-align: left;
-	padding-left: 8vw;
+	padding-left: 5vw;
 	padding-top: 5vw;
 }
 
@@ -145,7 +145,7 @@ a: hover{
 	font-size: 2.3vw;
 	font-weight: bold;
 	text-align: left;
-	padding-left: 8vw;
+	padding-left: 5vw;
 	padding-top: 8vw;
 }
 
@@ -153,7 +153,7 @@ a: hover{
 	font-family: times new roman;
 	text-align: left;
 	font-size: 1.3vw;
-	padding-left: 8vw;
+	padding-left: 5vw;
 	padding-top: .5vw;
 }
 
@@ -170,7 +170,7 @@ a: hover{
 	text-align: left;
 	font-size: 1.3vw;
 	padding-top: 5vw;
-	padding-left: 65vw;
+	padding-left: 68vw;
 }
 
 #photos{
