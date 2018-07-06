@@ -294,6 +294,10 @@ a:visited {
 	color: black;
 }
 
+/*
+
+OLD EMAIL PAGE
+
 #touch{
 	text-align: center;
 	padding-top: 9vw;
@@ -310,6 +314,11 @@ a:visited {
 
 #linked:hover, #email:hover{
 	color: #fff3e5;
+} */
+
+#contact_form{
+	margin-top: 8vw;
+	margin-left: 2vw;
 }
 
 #propic{
