@@ -324,7 +324,7 @@ a:visited {
 	text-align: center;
 	width: 32%;		/*550px;*/
 	height: 26%;	/*385px;*/
-	animation: clipPoly 3s 3 alternate;
+	/*animation: clipPoly 3s 3 alternate;*/
 }
 
 #a {
