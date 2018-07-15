@@ -328,7 +328,7 @@ a:visited {
 #propic{
 	margin-left: auto;
 	margin-right: auto;
-	border: .4vw solid white;
+	/*border: .4vw solid white;*/
 	box-shadow: 1.5vw 1.5vw 15px #5a5d63;
 	margin-top: 10vw;
 	text-align: center;
