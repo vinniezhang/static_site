@@ -311,18 +311,13 @@ a:visited {
 #linked{
 	margin-top: 9vw;
 	margin-left: 8vw;
-	font-size: 1.5vw;
+	font-size: 1.3vw;
 }
 
 #linkedin:hover{
-	text-decoration: underline;
+	color:#665861;
 }
 
-#message_me{
-	margin-top: 3vw;
-	margin-left: 8vw;
-	font-size: 1.2vw;
-}
 
 #contact_form{
 	margin-top: 2vw;
