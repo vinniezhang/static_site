@@ -9,9 +9,23 @@ body{
 	text-align: center;
 }
 
-#title{
+#dig_space{
+	font-size: 35px;
 	text-shadow: 2px 1px grey;
 	text-align: left;
+	font-size: 40px;
+	padding-left: 20px;
+}
+
+.title{
+	text-shadow: 2px 1px grey;
+	text-align: left;
+	font-size: 40px;
+	padding-left: 20px;
+}
+
+.title:hover{
+	color: #504751;
 }
 
 #intro{
