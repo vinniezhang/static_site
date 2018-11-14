@@ -17,16 +17,29 @@
 		<a id="contact" href="contact.html"> contact </a>
 	</div>
 
+	<p id="hello"></p>
+	
+	<script>
+
+		var i = 0;
+		var txt1 = "hello world! it's vinnie, welcome aboard.";
+		var speed1 = 180; 
+
+		function typeWriter1() {
+
+		  if (i < txt1.length) {
+		    document.getElementById("hello").innerHTML += txt1.charAt(i);
+		    i++;
+		    setTimeout(typeWriter1, speed1);
+		  } 
+
+		}
+
+	</script>
+
 	<div>
-		<img id="propic" src="pro.JPG">
+		<img id="propic" src="images/pro.jpg">
 	</div>
-
-	<div id="intro">
-		Hey there! My name is Vinnie and I'm currently a junior at New York University,
-		<br>majoring in computer science and minoring in creative writing and web development.
-	</div>
-
-	<br>
 
 </body>
 </html>
