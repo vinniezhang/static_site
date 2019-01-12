@@ -12,25 +12,25 @@
 
 #dig_space{
 	width: 100%;
-	font-size: 30px;
+	font-size: 26px;
 }
 
 #resume, #poetry, #photo, #about, #contact, #projects{
-	padding-left: 9px;
-	padding-right: 9px; 
+	padding-left: 6px;
+	padding-right: 6px; 
 	padding-bottom: 5px;
 	font-size: 3vw;
 }
 
 #p-about, #p-resume, #p-projects, #p-poetry, #p-photo, #p-contact{
 	padding-bottom: 5px;
-	padding-right: 9px;
-	padding-left: 9px;
+	padding-right: 6px;
+	padding-left: 6px;
 	font-size: 3vw;
 }
 
 .title{
-	font-size: 30px;
+	font-size: 26px;
 }
 
 #resume_intro{
