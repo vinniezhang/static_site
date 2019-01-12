@@ -1,0 +1,64 @@
+#propic{
+	width: 80%;
+	height: 70%;
+	margin-top: 10%;
+}
+
+.navigation{
+	width: 100%;
+	text-align: center;
+	margin-top: 5%;
+}
+
+#dig_space{
+	width: 100%;
+	font-size: 30px;
+}
+
+#resume, #poetry, #photo, #about, #contact, #projects{
+	padding-left: 15px;
+	padding-right: 15px; 
+	padding-bottom: 5px;
+	font-size: 3vw;
+}
+
+#p-about, #p-resume, #p-projects, #p-poetry, #p-photo, #p-contact{
+	padding-bottom: 5px;
+	padding-right: 15px;
+	padding-left: 15px;
+	font-size: 3vw;
+}
+
+.title{
+	font-size: 30px;
+}
+
+#resume_intro{
+	width: 100%;
+	margin-top: 20%;
+	font-size: 6.5vw;
+}
+
+#all_projects{
+	margin-top: 15%;
+}
+
+#photos{
+	margin-top: 16%;
+}
+
+#china{
+	margin-top: 16%;
+}
+
+#contact_intro{
+	margin-top: 25%;
+}
+
+#linked{
+	font-size: 2vw;
+}
+
+#contact_form{
+	margin-top: 10%;
+}

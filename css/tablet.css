@@ -1,0 +1,46 @@
+#propic{
+	width: 50%;
+	height: 40%;
+	margin-bottom: 2%;
+	margin-top: 5%;
+}
+
+.navigation{
+	width: 100%;
+	margin-top: 3%;
+	text-align: center;
+}
+
+#dig_space{
+	font-size: 33px;
+}
+
+.title{
+	font-size: 33px;
+}
+
+#resume_intro{
+	width: 100%;
+	margin-top: 10%;
+	font-size: 4.3vw;
+}
+
+#all_projects{
+	margin-top: 8%;
+}
+
+#photos{
+	margin-top: 5%;
+}
+
+#china{
+	margin-top: 10%;
+}
+
+#contact_intro{
+	margin-top: 15%;
+}
+
+#contact_form{
+	margin-top: 5%;
+}
