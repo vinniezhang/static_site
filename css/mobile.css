@@ -16,16 +16,16 @@
 }
 
 #resume, #poetry, #photo, #about, #contact, #projects{
-	padding-left: 3px;
-	padding-right: 3px; 
+	padding-left: 4px;
+	padding-right: 4px; 
 	padding-bottom: 5px;
 	font-size: 2vw;
 }
 
 #p-about, #p-resume, #p-projects, #p-poetry, #p-photo, #p-contact{
 	padding-bottom: 5px;
-	padding-right: 3px;
-	padding-left: 3px;
+	padding-right: 4px;
+	padding-left: 4px;
 	font-size: 2vw;
 }
 
